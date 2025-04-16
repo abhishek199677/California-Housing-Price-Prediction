@@ -12,3 +12,4 @@ pip install -r requirements.txt
 
 pip freeze #must be done before running the stud.app
 
+
